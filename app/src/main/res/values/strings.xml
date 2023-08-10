@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">L12 Demo Dialog</string>
     <string name="d1">d1</string>
+    <string name="d2">d2</string>
+    <string name="enter">enter</string>
+    <string name="d3">d3</string>
+    <string name="d4">d4</string>
+    <string name="d5">d5</string>
 </resources>
